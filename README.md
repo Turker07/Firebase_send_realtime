@@ -3,7 +3,7 @@ IOT
 
 Bu çalışmada esp32 de verilerin zaman bilgisi ile firebase veritabanına gönderilmesi ve firebase 
 veritabanının nasıl yazılması gerektiğinden bahsedilmiştir. 
-Daha önce nasıl firebase veri tabanına veri gönderilmesi gerektiğini anlatılmıştı, oradan ulaşabilirsiniz o yüzden oraları atlıyorum. 
+Daha önce nasıl firebase veri tabanına veri gönderilmesi gerektiğini anlatılmıştır. O yüzden bu kısımlar atlanmıştır. 
 
 
 ### Firebase veri düzeni
