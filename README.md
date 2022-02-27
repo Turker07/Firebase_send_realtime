@@ -15,6 +15,7 @@ Firebase veri depolanması başlıklar halinde yapılabilir.
 1. Ana başlık
    - Ana alt başlık
      - alt başlık
+  <br>
  Böyle bir veri yapısı elde etmek istiyoruz. Bunun için: 
   `````````
   adres="1. Ana başlık/Ana alt başlık/alt başlık";
